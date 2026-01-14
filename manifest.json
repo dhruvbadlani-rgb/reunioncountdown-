@@ -1,0 +1,16 @@
+{
+  "name": "Reunion Countdown",
+  "short_name": "Reunion",
+  "description": "A romantic countdown to our reunion",
+  "start_url": "/reunion.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#FFB6C1",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIYSURBVHic7ZxBaxNBFMY/...", 
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAAB
